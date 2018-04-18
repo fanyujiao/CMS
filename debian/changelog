@@ -1,0 +1,12 @@
+pc-manager (0.2) trusty; urgency=low
+
+  * repair a bug of UI.
+  * add chmod +x authority to start_sessiondbus.py and start_systemdbus.py.
+
+ -- huqin <milkhq@163.com>  Thur, 21 Jul 2016 17:30:05 +0800
+pc-manager (0.1) trusty; urgency=low
+
+  * init:
+    - Remove unexpected gray background of splash.
+    - Fix shadow of main widget.
+ -- huqin <milkhq@163.com>  Tue, 12 Jul 2016 15:29:00 +0800

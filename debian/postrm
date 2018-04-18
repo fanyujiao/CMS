@@ -1,0 +1,7 @@
+#!/bin/sh
+
+if [ "$1" = "purge" ] ; then
+	rm -rf /var/lib/pc-manager-daemon/
+fi
+
+#DEBHELPER#

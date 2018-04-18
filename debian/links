@@ -1,0 +1,2 @@
+/usr/lib/python2.7/dist-packages/pc-manager-daemon/src/start_systemdbus.py  /usr/bin/pc-manager-backend.py
+/usr/lib/python2.7/dist-packages/pc-manager-daemon/src/start_sessiondbus.py /usr/bin/pc-manager-session.py

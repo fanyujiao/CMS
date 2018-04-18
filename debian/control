@@ -1,0 +1,37 @@
+Source: pc-manager
+Section: misc
+Priority: optional
+Maintainer: huqin <milkhq@163.com>
+Build-Depends: debhelper (>= 9),
+               dh-translations,
+               libphonon-dev,
+               python-dev,
+               python-pywapi,
+               python-tz,
+               python-unidecode,
+               libqt4-dev,
+               fcitx-libs-dev (>= 1:4.2.7),
+               pkg-config,
+               python (>= 2.6.6-3~),
+               qt4-default,
+               qtchooser,
+Standards-Version: 3.9.5
+Homepage: https://cpu-os.ac.cn
+
+Package: pc-manager
+Architecture: any
+Depends: phonon-backend-gstreamer,
+         python-dbus,
+         python-psutil,
+         python-pywapi,
+         python-tz,
+         python-compizconfig,
+         ${misc:Depends},
+         ${python:Depends},
+         ${shlibs:Depends},
+Description: pc manager.
+ . 
+ Features currently included:
+  * Detecting and displaying general system information
+  * Unity user interface customization
+  * System garbage cleaning

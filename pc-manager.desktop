@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=pc-manager
+Name[zh_CN]=系统管理工具
+Comment=pc-manager
+Keywords=Settings;Cleaning;Customization
+Exec=/usr/bin/pc-manager
+Icon=pc-manager.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Application;System;

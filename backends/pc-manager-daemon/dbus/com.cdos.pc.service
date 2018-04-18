@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=com.cdos.pc
+Exec=/usr/bin/pc-manager-backend.py
+User=root

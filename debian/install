@@ -1,0 +1,4 @@
+backends/pc-manager-daemon/dbus/com.cdos.pc.service /usr/share/dbus-1/system-services/
+backends/pc-manager-daemon/dbus/com.cdos.pc.policy /usr/share/polkit-1/actions/
+backends/pc-manager-daemon/dbus/com.cdos.pc.conf /etc/dbus-1/system.d/
+backends/pc-manager-daemon/dbus/com.cdos.session.service /usr/share/dbus-1/services/
