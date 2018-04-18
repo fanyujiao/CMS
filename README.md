@@ -1,2 +1,2 @@
 # CMS
-系统管理工具
+for Linux 
